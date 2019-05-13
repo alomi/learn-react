@@ -40,12 +40,6 @@
     padding: 0 5px;
 }
 
-.table-row > span {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    padding: 0 5px;
-}
-
 .button-inline {
     border-width: 0;
     background: transparent;
@@ -61,4 +55,3 @@
     border-radius: 0;
     border-bottom: 1px solid #38BB6C;
 }
-
